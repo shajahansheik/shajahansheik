@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning Dart
 - 👯 I’m in collaboration with Apollo Telehealth
 - 💻 My projects are available at [Github](https://github.com/shajahansheik)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shajahan-shaik-22b012195/)
