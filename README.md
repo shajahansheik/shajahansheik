@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m in collaboration with Opstronomy Health Technologies Pvt Ltd
 - 💻 My projects are available at [Github](https://github.com/shajahansheik)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shajahan-shaik-22b012195/)
-- Portfolio (https://shajahan-shaik.netlify.app/)
+- Portfolio [Shajahan](https://shajahan-shaik.netlify.app/)
 - 💬 Ask me about MEAN and MERN.
 - 📫 How to reach me: shajahan.j2se@gmail.com
-- https://shajahan-shaik.herokuapp.com/
 
 [![Shajahan's github stats](https://github-readme-stats.vercel.app/api?username=shajahansheik&show_icons=true&theme=tokyonight)](https://github.com/shajahansheik/github-readme-stats)
 
