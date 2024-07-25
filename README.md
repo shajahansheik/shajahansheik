@@ -4,9 +4,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Apps
-- 👯 I’m in collaboration with Apollo Telehealth
+- 👯 I’m in collaboration with Opstronomy Health Technologies Pvt Ltd
 - 💻 My projects are available at [Github](https://github.com/shajahansheik)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shajahan-shaik-22b012195/)
+- Portfolio (https://shajahan-shaik.netlify.app/)
 - 💬 Ask me about MEAN and MERN.
 - 📫 How to reach me: shajahan.j2se@gmail.com
 - https://shajahan-shaik.herokuapp.com/
